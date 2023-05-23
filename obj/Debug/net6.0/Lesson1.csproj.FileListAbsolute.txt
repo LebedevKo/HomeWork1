@@ -1,0 +1,15 @@
+/Users/lebedev/Desktop/для учебы/Lesson1/bin/Debug/net6.0/Lesson1
+/Users/lebedev/Desktop/для учебы/Lesson1/bin/Debug/net6.0/Lesson1.deps.json
+/Users/lebedev/Desktop/для учебы/Lesson1/bin/Debug/net6.0/Lesson1.runtimeconfig.json
+/Users/lebedev/Desktop/для учебы/Lesson1/bin/Debug/net6.0/Lesson1.dll
+/Users/lebedev/Desktop/для учебы/Lesson1/bin/Debug/net6.0/Lesson1.pdb
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/Lesson1.csproj.AssemblyReference.cache
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/Lesson1.AssemblyInfoInputs.cache
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/Lesson1.AssemblyInfo.cs
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/Lesson1.csproj.CoreCompileInputs.cache
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/Lesson1.dll
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/refint/Lesson1.dll
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/Lesson1.pdb
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/Lesson1.genruntimeconfig.cache
+/Users/lebedev/Desktop/для учебы/Lesson1/obj/Debug/net6.0/ref/Lesson1.dll
